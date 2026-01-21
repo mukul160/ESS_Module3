@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. The Nature of Embedded Debugging.md",
+                "file": "03. A Debugging Case Study.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01. The Nature of Embedded Debugging"
+              "title": "03. A Debugging Case Study"
             }
           }
         ]
@@ -170,13 +170,13 @@
   "lastOpenFiles": [
     "02. Hardware Level Debugging.md",
     "01. The Nature of Embedded Debugging.md",
-    "03. A Debugging Case Study.md",
+    "Assets/5.png",
     "Assets/1.jpg",
+    "03. A Debugging Case Study.md",
     "Assets/8.jpeg",
     "Assets/Sojourner_on_Mars_PIA01122.jpeg",
     "Assets/7.png",
     "Assets/6.png",
-    "Assets/5.png",
     "Assets/4.jpg",
     "Assets/3.jpg",
     "Assets/2.jpg",
